@@ -1,1 +1,4 @@
 semantic-kernel[azure]
+python-dotenv 
+opentelemetry-sdk 
+azure-monitor-opentelemetry-exporter
